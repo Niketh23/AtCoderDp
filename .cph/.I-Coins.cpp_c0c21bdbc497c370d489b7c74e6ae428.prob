@@ -1,0 +1,1 @@
+{"name":"Local: I-Coins","url":"c:\\Users\\Niketh\\Desktop\\AtCoderDp\\I-Coins.cpp","tests":[{"id":1747241679222,"input":"3\n0.30 0.60 0.80","output":"0.612"},{"id":1747242159542,"input":"1\n0.50","output":"0.5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Niketh\\Desktop\\AtCoderDp\\I-Coins.cpp","group":"local","local":true}
